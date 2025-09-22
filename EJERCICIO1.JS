@@ -3,3 +3,4 @@ function ElegirPosicion(baraja, carta) {
 }
 
 console.log(ElegirPosicion([9, 7, 3, 2], 2));
+// => 3
